@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soon Yung</h1>
-<h3 align="center">A Electronic & Information Engineer Student at Imperial</h3>
+<h3 align="center">An Electronic & Information Engineer Student at Imperial</h3>
 
-- 🔭 I’m currently working on [DevOps github](https://github.com/so0nyung/DevOps_Projects)
+- 🔭 I’m currently working on [Several DevOps Projects](https://github.com/so0nyung/DevOps_Projects)
 
 - 🤝 I’m looking for help with [Internships 🙏](https://drive.google.com/file/d/1b8WfcjheTKQddO0la_pEzqNjECKeyvl3/view?usp=sharing)
 
